@@ -8,9 +8,9 @@ O objetivo é facilitar o estudo e entendimento da estrutura do Pix, permitindo:
 - Centralizar links de documentação e materiais de referência utilizados no estudo.
 
 ## 📌 Funcionalidades
-- [ ] Decodificação de Pix Copia e Cola  
-- [ ] Suporte a QR Code estático e dinâmico  
-- [ ] Geração de QR Codes a partir de payloads Pix    
+- [x] Decodificação de Pix Copia e Cola  
+- [x] Suporte a QR Code estático e dinâmico  
+- [x] Geração de QR Codes a partir de payloads Pix    
 
 ## 📚 Referências e Documentação
 - [Projeto em typescript usado base inicial](https://github.com/NascentSecureTech/pix-qrcode-utils)  
